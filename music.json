@@ -1,0 +1,7 @@
+{
+"category":[
+  {"name":"Songs", "url":"/song"},
+  {"name":"Burger", "url":"/album"},
+  {"name":"Drinks", "url":"/artists"}
+]
+}
